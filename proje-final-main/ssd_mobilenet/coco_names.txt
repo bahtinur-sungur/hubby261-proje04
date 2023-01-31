@@ -1,0 +1,90 @@
+insan
+bisiklet
+araba
+motorsiklet
+uçak
+otobüs
+tren
+traktör
+gemi
+trafik lambası
+yangın musluğu
+sokak tabelası
+dur işareti
+parkmetre
+bank
+kuş
+kedi
+köpek
+at
+koyun
+inek
+fil
+ayı
+zebra
+zürafa
+şapka
+sırt çantası
+şemsiye
+ayakkabı
+gözlük
+el çantası
+kravat
+bavul
+frizbi
+kayak
+snowboard
+spor topu
+uçurtma
+beyzbol sopası
+beyzbol eldiveni
+kaykay
+sörf tahtası
+tenis raketi
+şişe
+plaka
+şarap bardağı
+fincan
+çatal
+bıçak
+kaşık
+kase
+muz
+elma
+sandviç
+portakal
+brokoli
+havuç
+sosisli sandviç
+pizza
+donut
+kek
+sandalye
+kanepe
+saksı bitkisi
+yatak
+ayna
+yemek masası
+pencere
+masa
+tuvalet
+kapı
+televizyon
+laptop
+fare
+uzak
+klavye
+cep telefonu
+mikrodalga
+fırın
+tost makinası
+lavabo
+buzdolabı
+blender
+kitap
+saat
+vazo
+makas
+oyuncak ayı
+saç kurutma makinesi
+diş fırçası
